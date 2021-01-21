@@ -1,4 +1,3 @@
 # ConsoleFileMennager
 
-Hello World!
-Hellow Git!
+My first Git project.
